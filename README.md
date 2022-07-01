@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I'm Vaishnav Kanhirathingal.
 
-<!--
-**Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Native Android developer
 
-Here are some ideas to get you started:
+Currently, I am a student pursuing a bachlors in Computer engineering at Vidyavardhini's College of Engineering and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few skills I have worked with -
+  - Kotlin
+  - JAVA
+  - Solidity
+  - XML
+  - Firebase
+  - flutter
+  - SQL
+  - Python
+  - HTML
+  - C/C++
+
+
+[![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&hide=prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
