@@ -19,3 +19,4 @@ Currently, I am a student pursuing a bachlors in Computer engineering at Vidyava
 
 [![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&hide=prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
