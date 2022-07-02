@@ -37,9 +37,10 @@ Currently, I am a student pursuing a bachlors in Computer engineering at Vidyava
 
 ### Contacts -
 
-[![icons8-instagram](https://user-images.githubusercontent.com/94210466/176988556-79d612d7-6ed2-4b48-ac2e-71f1c14422b4.svg)](https://www.instagram.com/vaishnav_k.p/)
-[![icons8-gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg)](mailto:vaishnav.kanhira@gmail.com)
-[![icons8-microsoft-outlook-2019](https://user-images.githubusercontent.com/94210466/176989190-9e24774d-fb09-412b-af19-2f594b53a5a3.svg)](mailto:vaishnav.kanhira@outlook.com)
+[![icons8-instagram](https://user-images.githubusercontent.com/94210466/176988556-79d612d7-6ed2-4b48-ac2e-71f1c14422b4.svg "Instagram")](https://www.instagram.com/vaishnav_k.p/)
+[![icons8-gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:vaishnav.kanhira@gmail.com)
+[![icons8-microsoft-outlook-2019](https://user-images.githubusercontent.com/94210466/176989190-9e24774d-fb09-412b-af19-2f594b53a5a3.svg "Outlook")](mailto:vaishnav.kanhira@outlook.com)
+[![icons8-whatsapp](https://user-images.githubusercontent.com/94210466/176989471-2df5e9f0-0edd-4a1a-ba0a-a169b7ec612b.svg "Whatsapp")](https://wa.me/917219648837)
 
 Apart from programming, I also have experience using blender and DaVinci Resolve. You can find a few projects on my instagram.
-As for my programming projects, you can find them down below.
+As for my programming projects, you can find them down below in the pinned section or in the repository page.
