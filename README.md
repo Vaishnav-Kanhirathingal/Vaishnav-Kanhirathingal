@@ -1,13 +1,10 @@
-### Hi there 👋 I'm Vaishnav Kanhirathingal
-
-
 ```kotlin
 private fun hello(){
-    Log.d(TAG,"hello world")
+    Log.d(TAG,"Hi there 👋 I'm Vaishnav Kanhirathingal")
 }
 ```
 
-### Native Android developer
+### Kotlin Android development is what I do
 
 Currently, I am a student pursuing a bachlors in Computer engineering at Vidyavardhini's College of Engineering and Technology.
 
