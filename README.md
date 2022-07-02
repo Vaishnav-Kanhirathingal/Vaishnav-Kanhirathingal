@@ -24,6 +24,12 @@ Currently, I am a student pursuing a bachlors in Computer engineering at Vidyava
 ![html-5](https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg "html-5")
 ![c-programming](https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg "c-programming")
 
+### A few extra skills I have -
+
+![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation)")
+![icons8-davinci-resolve](https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg "DaVinci Resolve (used for video editing)")
+
+
 ### Commits within this year -
 
 [![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&hide=prs,stars,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats "Github commit statistics")
