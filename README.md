@@ -13,7 +13,6 @@ Currently, I am a student pursuing a bachlors in Computer engineering at Vidyava
 ![kotlin](https://user-images.githubusercontent.com/94210466/176880688-46732008-93f7-4fd6-8177-286f566d50df.svg "Kotlin")
 ![java](https://user-images.githubusercontent.com/94210466/176880691-4ab9e925-6394-436f-861e-5958410a6cc2.svg "JAVA")
 <img src = "https://developer.android.com/static/images/training/testing/espresso.png" width = "48" height = "48" title = "Android ESPRESSO ui testing framework">
-<img src = "https://developer.android.com/images/jetpack/compose/launch-alt.svg" width = "48" height = "48" title = "Android Jetpack Compose">
 ![solidity](https://user-images.githubusercontent.com/94210466/176880877-aa3b5d29-2bbb-4801-905c-cc8f981ba74f.svg "Solidity")
 ![ethereum](https://user-images.githubusercontent.com/94210466/176891264-73080865-8a23-474b-b4c5-0d65bcf12bba.svg "Ethereum")
 ![xml](https://user-images.githubusercontent.com/94210466/176882996-7df75494-3edd-483a-8800-5ef39ca4369b.png "XML")
