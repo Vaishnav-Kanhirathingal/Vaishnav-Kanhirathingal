@@ -8,7 +8,7 @@ private fun hello(){
 
 Currently, I am a student pursuing a bachlors in Computer engineering at Vidyavardhini's College of Engineering and Technology.
 
-### A few skills I have -
+### A few skills I have experience with  -
 
 ![kotlin](https://user-images.githubusercontent.com/94210466/176880688-46732008-93f7-4fd6-8177-286f566d50df.svg "Kotlin")
 ![java](https://user-images.githubusercontent.com/94210466/176880691-4ab9e925-6394-436f-861e-5958410a6cc2.svg "JAVA")
