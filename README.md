@@ -25,8 +25,6 @@ Currently, I am a student pursuing a bachlors in Computer engineering at Vidyava
 ![html-5](https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg "HTML-5")
 ![c-programming](https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg "C/C++ programming")
 
-
-
 ### A few extra skills I have -
 
 ![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation)")
@@ -39,7 +37,9 @@ Currently, I am a student pursuing a bachlors in Computer engineering at Vidyava
 
 ### Top languages used -
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal&hide=python)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal&hide=python)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")<br>
+<a href="https://stackexchange.com/users/23358250"><img src="https://stackexchange.com/users/flair/23358250.png?theme=clean" width="208" height="58" alt="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 
 ### Contacts -
 
