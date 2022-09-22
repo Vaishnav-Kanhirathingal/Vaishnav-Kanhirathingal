@@ -17,11 +17,11 @@ private fun hello(){
 ![kotlin](https://user-images.githubusercontent.com/94210466/176880688-46732008-93f7-4fd6-8177-286f566d50df.svg "Kotlin")
 ![java](https://user-images.githubusercontent.com/94210466/176880691-4ab9e925-6394-436f-861e-5958410a6cc2.svg "JAVA")
 ![xml](https://user-images.githubusercontent.com/94210466/176882996-7df75494-3edd-483a-8800-5ef39ca4369b.png "XML")
-![sql](https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png "SQL")
 <img src = "https://developer.android.com/static/images/training/testing/espresso.png" width = "48" height = "48" title = "Android ESPRESSO ui testing framework">
 
 ### Skills I know but don't use fairly often
 
+![sql](https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png "SQL")
 ![solidity](https://user-images.githubusercontent.com/94210466/176880877-aa3b5d29-2bbb-4801-905c-cc8f981ba74f.svg "Solidity")
 ![ethereum](https://user-images.githubusercontent.com/94210466/176891264-73080865-8a23-474b-b4c5-0d65bcf12bba.svg "Ethereum")
 ![firebase](https://user-images.githubusercontent.com/94210466/176881692-82e3d732-64ae-4ffa-adfb-e3012433279f.svg "Firebase")
