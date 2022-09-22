@@ -29,7 +29,7 @@ private fun hello(){
 ![python](https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg "python")
 ![html-5](https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg "HTML-5")
 
-### Skills I know on a beginner level 
+### Skills I know on a beginner level
 
 ![flutter](https://user-images.githubusercontent.com/94210466/176881833-c22ce8a5-b810-4bbe-9dd2-286ba83ac36e.svg "flutter")
 ![dart](https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg "dart")
@@ -55,10 +55,36 @@ As for my programming projects, you can find them down below in the pinned secti
 
 <a href="https://stackexchange.com/users/23358250"><img src="https://stackexchange.com/users/flair/23358250.png?theme=clean" width="208" height="58" alt="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-
 ## Contacts -
 
 [![icons8-instagram](https://user-images.githubusercontent.com/94210466/176988556-79d612d7-6ed2-4b48-ac2e-71f1c14422b4.svg "Instagram")](https://www.instagram.com/vaishnav_k.p/)
 [![icons8-gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:vaishnav.kanhira@gmail.com)
 [![icons8-microsoft-outlook-2019](https://user-images.githubusercontent.com/94210466/176989190-9e24774d-fb09-412b-af19-2f594b53a5a3.svg "Outlook")](mailto:vaishnav.kanhira@outlook.com)
 [![icons8-whatsapp](https://user-images.githubusercontent.com/94210466/176989471-2df5e9f0-0edd-4a1a-ba0a-a169b7ec612b.svg "Whatsapp")](https://wa.me/917219648837)
+
+## Projects -
+
+### CRYPTILE -
+
+> CRYPTILE is a file encryption app which creates a file structure (i.e. a vault/safe). Users can then add their files to this safe. The app also uses account authentication to lock a safe to a specific account.
+
+[![CRYPTILE app icon](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "CRYPTILE")](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE)
+
+### Block - VS -
+
+> Block - VS is an Ethereum based Voting app. connects to the Ethereum Ropsten test network.
+
+[![Block - VS app icon](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Block - VS")](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS)
+
+### Save - Pass -
+
+> Save-Pass is a password saving app which stores passwords and uses a combination of a master password and/or biometrics to access those passwords.
+
+[![Save - Pass app icon](https://github.com/Vaishnav-Kanhirathingal/Save-Pass/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Save - Pass")](https://github.com/Vaishnav-Kanhirathingal/Save-Pass)
+
+### Game - Stream (under progress)
+
+> Game - Similiar to cloud gaming services, this project aims to turn your own PC into a game server for your android device resulting in significantly reduced latency and increased performance.
+
+[![Game - Stream android app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "Game - Stream (Mobile)")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE)
+[![Game - Stream desktop app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop/blob/main/src/main/resources/app_icon_mipmap/mipmap-xxxhdpi/ic_launcher.png?raw=true "Game - Stream (Desktop)")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop)
