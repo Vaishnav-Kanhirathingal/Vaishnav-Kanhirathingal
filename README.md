@@ -64,6 +64,8 @@ As for my programming projects, you can find them down below in the pinned secti
 
 ## Projects -
 
+> Each project has its own release. You can find the apks in the release section.
+
 ### Cryptile -
 
 > CRYPTILE is a file encryption app which creates a file structure (i.e. a vault/safe). Users can then add their files to this safe. The app also uses account authentication to lock a safe to a specific account.
