@@ -19,7 +19,7 @@ private fun hello(){
 ![xml](https://user-images.githubusercontent.com/94210466/176882996-7df75494-3edd-483a-8800-5ef39ca4369b.png "XML")
 <img src = "https://developer.android.com/static/images/training/testing/espresso.png" width = "48" height = "48" title = "Android ESPRESSO ui testing framework">
 
-### Skills I know but don't use fairly often
+### Secondary Skills
 
 ![sql](https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png "SQL")
 ![solidity](https://user-images.githubusercontent.com/94210466/176880877-aa3b5d29-2bbb-4801-905c-cc8f981ba74f.svg "Solidity")
@@ -29,13 +29,13 @@ private fun hello(){
 ![python](https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg "python")
 ![html-5](https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg "HTML-5")
 
-### Skills I know on a beginner level
+### Unused Skills
 
 ![flutter](https://user-images.githubusercontent.com/94210466/176881833-c22ce8a5-b810-4bbe-9dd2-286ba83ac36e.svg "flutter")
 ![dart](https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg "dart")
 ![c-programming](https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg "C/C++ programming")
 
-## A few extra skills I have -
+## Extra skills
 
 > Apart from programming, I also have experience using blender and DaVinci Resolve. You can find a few projects on my instagram.
 As for my programming projects, you can find them down below in the pinned section or in the repository page.
