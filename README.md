@@ -53,7 +53,7 @@ As for my programming projects, you can find them down below in the pinned secti
 
 ## My stack exchange account
 
-<a href="https://stackexchange.com/users/23358250"><img src="https://stackexchange.com/users/flair/23358250.png?theme=clean" width="208" height="58" alt="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/23358250/vaishnav-kanhirathingal?tab=accounts"><img src="https://stackexchange.com/users/flair/23358250.png?theme=clean" width="208" height="58" alt="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## Contacts -
 
