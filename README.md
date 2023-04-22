@@ -43,13 +43,7 @@ As for my programming projects, you can find them down below in the pinned secti
 ![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation)")
 ![icons8-davinci-resolve](https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg "DaVinci Resolve (used for video editing)")
 
-## Commits within this year -
-
-[![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats "Github commit statistics")
-
-## Top languages used -
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")<br>[![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats "Github commit statistics")
 
 ## My stack exchange account
 
