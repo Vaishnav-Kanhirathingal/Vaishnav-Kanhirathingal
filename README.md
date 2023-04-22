@@ -45,11 +45,11 @@ As for my programming projects, you can find them down below in the pinned secti
 
 ## Commits within this year -
 
-[![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&hide=prs,stars,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats "Github commit statistics")
+[![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats "Github commit statistics")
 
 ## Top languages used -
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal&hide=python)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")<br>
 
 ## My stack exchange account
 
