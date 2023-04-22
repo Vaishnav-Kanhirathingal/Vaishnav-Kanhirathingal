@@ -74,9 +74,15 @@ As for my programming projects, you can find them down below in the pinned secti
 
 ### In progress -
 
-#### Game - Stream (under progress)
+#### Game - Stream
 
-> Game - Similiar to cloud gaming services, this project aims to turn your own PC into a game server for your android device resulting in significantly reduced latency and increased performance.
+> Similiar to cloud gaming services, this project aims to turn your own PC into a game server for your android device resulting in significantly reduced latency and increased performance.
 
 [![Game - Stream android app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Game - Stream Mobile] - This app is responsible for sending control signals to the desktop side. It also displays gameplay streamed from the PC")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE)
-[![Game - Stream desktop app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop/blob/main/src/main/resources/app_icon_mipmap/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Game - Stream (Desktop] - This app is responsible for recieving control signals from the android side. It also streams gameplay streamed to the android device")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop)
+[![Game - Stream desktop app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop/blob/main/src/main/resources/app_icon_mipmap/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Game - Stream Desktop] - This app is responsible for recieving control signals from the android side. It also streams gameplay streamed to the android device")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop)
+
+#### Scheduler
+
+> You can set tasks that are repeatable on a regular basis and add reminders. This is a practice project to improve compose skills
+
+[![Scheuler Icon](https://github.com/Vaishnav-Kanhirathingal/Scheduler/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Scheduler Git-Hub")](https://github.com/Vaishnav-Kanhirathingal/Scheduler)
