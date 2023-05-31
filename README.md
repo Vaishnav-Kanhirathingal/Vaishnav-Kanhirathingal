@@ -62,12 +62,6 @@ As for my programming projects, you can find them down below in the pinned secti
 
 ### Completed -
 
-[![CRYPTILE app icon](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[CRYPTILE] - CRYPTILE is a file encryption app which creates a file structure (i.e. a vault/safe). Users can then add their files to this safe. The app also uses account authentication to lock a safe to a specific account.")](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE)
-[![Block - VS app icon](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[Block - VS] - Block - VS is an Ethereum based Voting app. connects to the Ethereum Ropsten test network.")](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS)
-[![Save - Pass app icon](https://github.com/Vaishnav-Kanhirathingal/Save-Pass/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[Save - Pass] - Save-Pass is a password saving app which stores passwords and uses a combination of a master password and/or biometrics to access those passwords.")](https://github.com/Vaishnav-Kanhirathingal/Save-Pass)
-
-### In progress -
-
 #### Game - Stream
 
 > Similiar to cloud gaming services, this project aims to turn your own PC into a game server for your android device resulting in significantly reduced latency and increased performance.
@@ -75,8 +69,28 @@ As for my programming projects, you can find them down below in the pinned secti
 [![Game - Stream android app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Game - Stream Mobile] - This app is responsible for sending control signals to the desktop side. It also displays gameplay streamed from the PC")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE)
 [![Game - Stream desktop app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop/blob/main/src/main/resources/app_icon_mipmap/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Game - Stream Desktop] - This app is responsible for recieving control signals from the android side. It also streams gameplay streamed to the android device")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop)
 
+#### CRYPTILE
+
+> This is an encryption application. The only place the data will ever exist is on your physical device. It would be password locked and wouldn't be in readable format for anybody without the passwords. A safe is a term that would be used to define a collection of encrypted files.
+
+[![CRYPTILE app icon](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[CRYPTILE] - CRYPTILE is a file encryption app which creates a file structure (i.e. a vault/safe). Users can then add their files to this safe. The app also uses account authentication to lock a safe to a specific account.")](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE)
+
+#### Block - VS
+
+> This app is a block-chain based voting system app which uses the ethereum's ropsten testnet to perform transactions. Since the transition of Ethereum to a proof of stake, This application no longer works.
+
+[![Block - VS app icon](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[Block - VS] - Block - VS is an Ethereum based Voting app. connects to the Ethereum Ropsten test network.")](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS)
+
+#### Save - Pass
+
+>This app is used to save your passwords behind a fingerprint or master password.
+
+[![Save - Pass app icon](https://github.com/Vaishnav-Kanhirathingal/Save-Pass/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[Save - Pass] - Save-Pass is a password saving app which stores passwords and uses a combination of a master password and/or biometrics to access those passwords.")](https://github.com/Vaishnav-Kanhirathingal/Save-Pass)
+
+### In progress -
+
 #### Scheduler
 
 > You can set tasks that are repeatable on a regular basis and add reminders. This is a practice project to improve compose skills
 
-[![Scheuler Icon](https://github.com/Vaishnav-Kanhirathingal/Scheduler/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Scheduler Git-Hub")](https://github.com/Vaishnav-Kanhirathingal/Scheduler)
+[![Scheuler Icon](https://github.com/Vaishnav-Kanhirathingal/Scheduler/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "Scheduler Git-Hub")](https://github.com/Vaishnav-Kanhirathingal/Scheduler)
