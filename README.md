@@ -6,7 +6,7 @@ private fun hello(){
 
 ## Kotlin Android development is what I do
 
-> Currently, I am a student pursuing a bachlors in Computer engineering at Vidyavardhini's College of Engineering and Technology.
+> I started my Android development journey on november end 2021 and, currently I have completed multiple projects based on kotlin.
 
 ## A few skills I have experience with  -
 
@@ -17,6 +17,7 @@ private fun hello(){
 ![kotlin](https://user-images.githubusercontent.com/94210466/176880688-46732008-93f7-4fd6-8177-286f566d50df.svg "Kotlin")
 ![java](https://user-images.githubusercontent.com/94210466/176880691-4ab9e925-6394-436f-861e-5958410a6cc2.svg "JAVA")
 ![xml](https://user-images.githubusercontent.com/94210466/176882996-7df75494-3edd-483a-8800-5ef39ca4369b.png "XML")
+<img src = "https://funkymuse.dev/assets/img/compose/compose_logo.png" width = "48" height = "48" title = "Jetpack Compose">
 <img src = "https://developer.android.com/static/images/training/testing/espresso.png" width = "48" height = "48" title = "Android ESPRESSO ui testing framework">
 
 ### Secondary Skills
