@@ -36,7 +36,7 @@ private fun hello(){
 ![dart](https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg "dart")
 ![c-programming](https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg "C/C++ programming")
 
-## Extra skills
+### Extra skills
 
 > Apart from programming, I also have experience using blender and DaVinci Resolve. You can find a few projects on my instagram.
 As for my programming projects, you can find them down below in the pinned section or in the repository page.
@@ -44,7 +44,11 @@ As for my programming projects, you can find them down below in the pinned secti
 ![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation)")
 ![icons8-davinci-resolve](https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg "DaVinci Resolve (used for video editing)")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")<br>[![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats "Github commit statistics")
+## Languages and Git-Hub stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")
+
+[![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats "Github commit statistics")
 
 ## My stack exchange account
 
