@@ -1,5 +1,3 @@
-# Hello
-
 ```kotlin
 private fun hello() {
     Log.d(TAG, "Hi there 👋 I'm Vaishnav Kanhirathingal, a Kotlin based android developer.")
