@@ -1,12 +1,10 @@
+# Hello
+
 ```kotlin
 private fun hello(){
-    Log.d(TAG,"Hi there 👋 I'm Vaishnav Kanhirathingal")
+    Log.d(TAG,"Hi there 👋 I'm Vaishnav Kanhirathingal. Been doing projects since november of 2021, I am a Kotlin Android dveloper")
 }
 ```
-
-## Kotlin Android development is what I do
-
-> I started my Android development journey on november end 2021 and, currently I have completed multiple projects based on kotlin.
 
 ## A few skills I have experience with  -
 
@@ -56,10 +54,10 @@ As for my programming projects, you can find them down below in the pinned secti
 
 ## Contacts -
 
-[![icons8-instagram](https://user-images.githubusercontent.com/94210466/176988556-79d612d7-6ed2-4b48-ac2e-71f1c14422b4.svg "Instagram")](https://www.instagram.com/vaishnav_k.p/)
-[![icons8-gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:vaishnav.kanhira@gmail.com)
-[![icons8-microsoft-outlook-2019](https://user-images.githubusercontent.com/94210466/176989190-9e24774d-fb09-412b-af19-2f594b53a5a3.svg "Outlook")](mailto:vaishnav.kanhira@outlook.com)
-[![icons8-whatsapp](https://user-images.githubusercontent.com/94210466/176989471-2df5e9f0-0edd-4a1a-ba0a-a169b7ec612b.svg "Whatsapp")](https://wa.me/917219648837)
+[![gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:vaishnav.kanhira@gmail.com)
+[![microsoft-outlook-2019](https://user-images.githubusercontent.com/94210466/176989190-9e24774d-fb09-412b-af19-2f594b53a5a3.svg "Outlook")](mailto:vaishnav.kanhira@outlook.com)
+[![whatsapp](https://user-images.githubusercontent.com/94210466/176989471-2df5e9f0-0edd-4a1a-ba0a-a169b7ec612b.svg "Whatsapp")](https://wa.me/917219648837)
+[![instagram](https://user-images.githubusercontent.com/94210466/176988556-79d612d7-6ed2-4b48-ac2e-71f1c14422b4.svg "Instagram")](https://www.instagram.com/vaishnav_k.p/)
 
 ## Projects -
 
