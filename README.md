@@ -2,9 +2,8 @@
 
 ```kotlin
 private fun hello() {
-    Log.d(TAG, "Hi there 👋 I'm Vaishnav Kanhirathingal")
+    Log.d(TAG, "Hi there 👋 I'm Vaishnav Kanhirathingal, a Kotlin based android developer.")
     Log.d(TAG, "I have Been doing projects since november of 2021.")
-    Log.d(TAG, "And, I am a Kotlin Android developer")
 }
 ```
 
