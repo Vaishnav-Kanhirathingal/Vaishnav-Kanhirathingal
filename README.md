@@ -41,6 +41,21 @@ As for my programming projects, you can find them down below in the pinned secti
 ![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation)")
 ![icons8-davinci-resolve](https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg "DaVinci Resolve (used for video editing)")
 
+## Courses completed
+
+<a href ="https://developer.android.com/courses/android-basics-kotlin/course">
+<img 
+    src="https://developer.android.com/static/images/hero-assets/android-basics-kotlin.svg",
+    height=250,
+    title="Android Basics in Kotlin">
+</a>
+<a href ="https://developer.android.com/courses/jetpack-compose/course">
+<img 
+    src="https://developer.android.com/static/courses/jetpack-compose/images/course-logo.svg",
+    height=250,
+    title="Jetpack Compose for Android Developers">
+</a>
+
 ## Languages and Git-Hub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")
