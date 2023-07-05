@@ -7,7 +7,7 @@ private fun hello() {
 
 ## A few skills I have experience with  -
 
-> Hover over the icons to see their respective names...
+Hover over the icons to see their respective names...
 
 ### Primary Skills
 
@@ -35,7 +35,7 @@ private fun hello() {
 
 ### Extra skills
 
-> Apart from programming, I also have experience using blender and DaVinci Resolve. You can find a few projects on my instagram.
+Apart from programming, I also have experience using blender and DaVinci Resolve. You can find a few projects on my instagram.
 As for my programming projects, you can find them down below in the pinned section or in the repository page.
 
 ![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation)")
@@ -75,7 +75,7 @@ As for my programming projects, you can find them down below in the pinned secti
 
 ## Projects -
 
-> Each project has its own release. You can find the apks in the release section. Hover over the project icons for moore details.
+Each project has its own release. You can find the apks in the release section. Hover over the project icons for moore details.
 
 [![Scheuler Icon](https://github.com/Vaishnav-Kanhirathingal/Scheduler/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Scheduler Compose] - This is a task reminder app which acheives its motive by pushing undismissable notifications. This was a practice project to improve compose skills")](https://github.com/Vaishnav-Kanhirathingal/Scheduler)
 [![Game - Stream android app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Game - Stream Mobile] - This app is responsible for sending control signals to the desktop side. It also displays gameplay streamed from the PC")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE)
