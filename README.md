@@ -44,7 +44,7 @@ I also do a little bit of 3d modelling and animations. Samples on my instagram.
 
 <a href ="https://developer.android.com/courses/android-basics-kotlin/course">
 <img 
-    src="https://developer.android.com/static/images/hero-assets/android-basics-kotlin.svg",
+    src="https://developer.android.com/static/images/hero-assets/kotlin-certified-grey.svg",
     height=250,
     title="Android Basics in Kotlin">
 </a>
