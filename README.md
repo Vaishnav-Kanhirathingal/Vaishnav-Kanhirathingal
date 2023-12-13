@@ -1,7 +1,7 @@
 ```kotlin
 /** A greetings function which takes a string value and returns either a greeting or null
  * @param message a greeting message from the user
- * @return a generated greeting
+ * @return a generated greeting or null based on the message provided
  */
 fun greetings(message: String): String? {
     return if (message.contains("hi")) "hello there"
