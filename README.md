@@ -18,10 +18,15 @@ private fun hello() {
 <img src = "https://developer.android.com/static/images/training/testing/espresso.png" width = "48" height = "48" title = "Android ESPRESSO ui testing framework">
 ![firebase](https://user-images.githubusercontent.com/94210466/176881692-82e3d732-64ae-4ffa-adfb-e3012433279f.svg "Firebase")
 ![cloud-firestore](https://user-images.githubusercontent.com/94210466/176891077-0c14f0da-93cb-4d77-a3d2-bb5290d887ee.svg "Cloud-Firestore")
+<img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/69dd0d75-d170-410b-a192-e465d295ae26" width = "48" height = "48" title = "chat gpt api">
+<img src = "https://th.bing.com/th?id=ODLS.c0682015-73df-4e47-8c62-6f1b8f901091&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" width = "48" height = "48" title = "Max Ads">
+![icons8-google-ads](https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/60daed75-38aa-4bd7-b84a-13770fa21473 "Google ads")
+<img src = "https://th.bing.com/th?id=ODLS.f46432d0-40f7-4c89-8e1e-18ec86120902&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" width = "48" height = "48" title = "Sentry">
+<img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/a78caaf0-582f-4b6b-b721-1486dd140316" width = "48" height = "48" title = "Biometrics">
+![sql](https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png "SQL")
 
 ### Experienced in
 
-![sql](https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png "SQL")
 ![solidity](https://user-images.githubusercontent.com/94210466/176880877-aa3b5d29-2bbb-4801-905c-cc8f981ba74f.svg "Solidity")
 ![ethereum](https://user-images.githubusercontent.com/94210466/176891264-73080865-8a23-474b-b4c5-0d65bcf12bba.svg "Ethereum")
 ![python](https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg "python")
