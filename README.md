@@ -9,9 +9,7 @@ fun greetings(message: String): String? {
 }
 ```
 
-## A few skills I have experience with  -
-
-> Hover over the icons to see their respective names...
+> Hover over the icons to see their respective titles or functions...
 
 ### Primary Skills
 
