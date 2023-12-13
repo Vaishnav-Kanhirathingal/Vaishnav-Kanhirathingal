@@ -16,28 +16,24 @@ private fun hello() {
 ![xml](https://user-images.githubusercontent.com/94210466/176882996-7df75494-3edd-483a-8800-5ef39ca4369b.png "XML")
 <img src = "https://funkymuse.dev/assets/img/compose/compose_logo.png" width = "48" height = "48" title = "Jetpack Compose">
 <img src = "https://developer.android.com/static/images/training/testing/espresso.png" width = "48" height = "48" title = "Android ESPRESSO ui testing framework">
+![firebase](https://user-images.githubusercontent.com/94210466/176881692-82e3d732-64ae-4ffa-adfb-e3012433279f.svg "Firebase")
+![cloud-firestore](https://user-images.githubusercontent.com/94210466/176891077-0c14f0da-93cb-4d77-a3d2-bb5290d887ee.svg "Cloud-Firestore")
 
-### Secondary Skills
+### Experienced in
 
 ![sql](https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png "SQL")
 ![solidity](https://user-images.githubusercontent.com/94210466/176880877-aa3b5d29-2bbb-4801-905c-cc8f981ba74f.svg "Solidity")
 ![ethereum](https://user-images.githubusercontent.com/94210466/176891264-73080865-8a23-474b-b4c5-0d65bcf12bba.svg "Ethereum")
-![firebase](https://user-images.githubusercontent.com/94210466/176881692-82e3d732-64ae-4ffa-adfb-e3012433279f.svg "Firebase")
-![cloud-firestore](https://user-images.githubusercontent.com/94210466/176891077-0c14f0da-93cb-4d77-a3d2-bb5290d887ee.svg "Cloud-Firestore")
 ![python](https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg "python")
 ![html-5](https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg "HTML-5")
-
-### Unused Skills
-
 ![flutter](https://user-images.githubusercontent.com/94210466/176881833-c22ce8a5-b810-4bbe-9dd2-286ba83ac36e.svg "flutter")
 ![dart](https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg "dart")
 ![c-programming](https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg "C/C++ programming")
 
+
 ### Extra skills
 
-I also do a little bit of 3d modelling and animations. Samples on my instagram.
-
-![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation)")
+![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation, Samples on my instagram)")
 ![icons8-davinci-resolve](https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg "DaVinci Resolve (used for video editing)")
 
 ## Courses completed
