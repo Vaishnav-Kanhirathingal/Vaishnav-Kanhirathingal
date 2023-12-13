@@ -67,10 +67,6 @@ fun greetings(message: String): String? {
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Kanhirathingal&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
 </a>
 
-## My stack exchange account
-
-<a href="https://stackexchange.com/users/23358250/vaishnav-kanhirathingal?tab=accounts"><img src="https://stackexchange.com/users/flair/23358250.png?theme=clean" width="208" height="58" alt="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
 ## Contacts -
 
 [![gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:vaishnav.kanhira@gmail.com)
@@ -88,3 +84,7 @@ fun greetings(message: String): String? {
 [![CRYPTILE app icon](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[CRYPTILE] - CRYPTILE is a file encryption app which creates a file structure (i.e. a vault/safe). Users can then add their files to this safe. The app also uses account authentication to lock a safe to a specific account.")](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE)
 [![Block - VS app icon](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "This app is a block-chain based voting system app which uses the ethereum's ropsten testnet to perform transactions. Since the transition of Ethereum to a proof of stake, This application no longer works.")](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS)
 [![Save - Pass app icon](https://github.com/Vaishnav-Kanhirathingal/Save-Pass/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[Save - Pass] - Save-Pass is a password saving app which stores passwords and uses a combination of a master password and/or biometrics to access those passwords.")](https://github.com/Vaishnav-Kanhirathingal/Save-Pass)
+
+### My stack exchange account
+
+<a href="https://stackexchange.com/users/23358250/vaishnav-kanhirathingal?tab=accounts"><img src="https://stackexchange.com/users/flair/23358250.png?theme=clean" width="208" height="58" alt="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
