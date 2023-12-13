@@ -1,7 +1,11 @@
 ```kotlin
-private fun hello() {
-    Log.d(TAG, "Hi there 👋 I'm Vaishnav Kanhirathingal, a Kotlin based android developer.")
-    Log.d(TAG, "I have Been doing projects since november of 2021.")
+/** A greetings function which takes a string value and returns either a greeting or null
+ * @param message a greeting message from the user
+ * @return a generated greeting
+ */
+fun greetings(message: String): String? {
+    return if (message.contains("hi")) "hello there"
+    else null
 }
 ```
 
