@@ -48,13 +48,13 @@ fun greetings(message: String): String? {
 <a href ="https://developer.android.com/courses/android-basics-kotlin/course">
 <img 
     src="https://developer.android.com/static/images/hero-assets/kotlin-certified-grey.svg",
-    height=250,
+    height=180,
     title="Android Basics in Kotlin">
 </a>
 <a href ="https://developer.android.com/courses/jetpack-compose/course">
 <img 
     src="https://developer.android.com/static/courses/jetpack-compose/images/course-logo.svg",
-    height=250,
+    height=180,
     title="Jetpack Compose for Android Developers">
 </a>
 
