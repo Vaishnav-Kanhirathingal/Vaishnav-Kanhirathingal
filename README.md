@@ -48,23 +48,23 @@ fun greetings(message: String): String? {
 <a href ="https://developer.android.com/courses/android-basics-kotlin/course">
 <img 
     src="https://developer.android.com/static/images/hero-assets/kotlin-certified-grey.svg",
-    height=180,
+    height=200,
     title="Android Basics in Kotlin">
 </a>
 <a href ="https://developer.android.com/courses/jetpack-compose/course">
 <img 
     src="https://developer.android.com/static/courses/jetpack-compose/images/course-logo.svg",
-    height=180,
+    height=200,
     title="Jetpack Compose for Android Developers">
 </a>
 
 ## Languages and Git-Hub stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&hide_border=true&theme=transparent&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Kanhirathingal&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Kanhirathingal&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
 </a>
 
 ## My stack exchange account
