@@ -60,9 +60,12 @@ fun greetings(message: String): String? {
 
 ## Languages and Git-Hub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Kanhirathingal)](https://github.com/anuraghazra/github-readme-stats "A ranking list of my most used languages")
-
-[![Vaishnav-Kanhirathingal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats "Github commit statistics")
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Kanhirathingal&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## My stack exchange account
 
