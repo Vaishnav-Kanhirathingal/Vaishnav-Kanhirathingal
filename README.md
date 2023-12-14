@@ -66,13 +66,6 @@ fun greetings(message: String): String? {
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Kanhirathingal&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
 </a>
 
-## Contacts -
-
-[![gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:vaishnav.kanhira@gmail.com)
-[![microsoft-outlook-2019](https://user-images.githubusercontent.com/94210466/176989190-9e24774d-fb09-412b-af19-2f594b53a5a3.svg "Outlook")](mailto:vaishnav.kanhira@outlook.com)
-[![whatsapp](https://user-images.githubusercontent.com/94210466/176989471-2df5e9f0-0edd-4a1a-ba0a-a169b7ec612b.svg "Whatsapp")](https://wa.me/917219648837)
-[![instagram](https://user-images.githubusercontent.com/94210466/176988556-79d612d7-6ed2-4b48-ac2e-71f1c14422b4.svg "Instagram")](https://www.instagram.com/vaishnav_k.p/)
-
 ## Projects -
 
 > Each project has its own release. You can find the apks in the release section. Hover over the project icons for moore details.
@@ -83,6 +76,13 @@ fun greetings(message: String): String? {
 [![CRYPTILE app icon](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[CRYPTILE] - CRYPTILE is a file encryption app which creates a file structure (i.e. a vault/safe). Users can then add their files to this safe. The app also uses account authentication to lock a safe to a specific account.")](https://github.com/Vaishnav-Kanhirathingal/CRYPTILE)
 [![Block - VS app icon](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "This app is a block-chain based voting system app which uses the ethereum's ropsten testnet to perform transactions. Since the transition of Ethereum to a proof of stake, This application no longer works.")](https://github.com/Vaishnav-Kanhirathingal/BlockChain-VS)
 [![Save - Pass app icon](https://github.com/Vaishnav-Kanhirathingal/Save-Pass/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "[Save - Pass] - Save-Pass is a password saving app which stores passwords and uses a combination of a master password and/or biometrics to access those passwords.")](https://github.com/Vaishnav-Kanhirathingal/Save-Pass)
+
+## Contacts -
+
+[![gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:vaishnav.kanhira@gmail.com)
+[![whatsapp](https://user-images.githubusercontent.com/94210466/176989471-2df5e9f0-0edd-4a1a-ba0a-a169b7ec612b.svg "Whatsapp")](https://wa.me/917219648837)
+[![LinkedIn](https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/264d3829-1780-40a7-9126-7ae39c4e7615 "Linkedin")]([mailto:vaishnav.kanhira@outlook.com](https://www.linkedin.com/in/vaishnav-kanhirathingal-2b8b6b224/))
+[![instagram](https://user-images.githubusercontent.com/94210466/176988556-79d612d7-6ed2-4b48-ac2e-71f1c14422b4.svg "Instagram")](https://www.instagram.com/vaishnav_k.p/)
 
 ### Stack Exchange
 
