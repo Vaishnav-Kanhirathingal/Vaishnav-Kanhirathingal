@@ -42,7 +42,7 @@ fun greetings(message: String): String? {
 ![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation, Samples on my instagram)")
 ![icons8-davinci-resolve](https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg "DaVinci Resolve (used for video editing)")
 
-## Courses completed [[Badges]](https://developers.google.com/profile/u/108026258187293169698?utm_source=developer.android.com)
+## Courses completed [[Badges]](https://g.dev/Vaishnav-Kanhirathingal)
 
 <a href ="https://developer.android.com/courses/android-basics-kotlin/course">
 <img 
