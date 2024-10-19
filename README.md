@@ -26,6 +26,9 @@ fun greetings(message: String): String? {
 <img src = "https://th.bing.com/th?id=ODLS.f46432d0-40f7-4c89-8e1e-18ec86120902&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" width = "48" height = "48" title = "Sentry">
 <img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/a78caaf0-582f-4b6b-b721-1486dd140316" width = "48" height = "48" title = "Biometrics">
 ![sql](https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png "SQL")
+<img src = "https://github.com/user-attachments/assets/f9037693-234d-4589-a10c-dfa20da7b9bc" width = "48" height = "48" title = "Google Play Console">
+<img src = "https://github.com/user-attachments/assets/77f07425-e186-40b8-af71-a40d6fb62c59" width = "48" height = "48" title = "Supabase">
+<img src = "https://github.com/user-attachments/assets/6ef38261-b84b-4aee-956f-723a3b2455de" width = "48" height = "48" title = "WearOS">
 
 ### Experienced in
 
