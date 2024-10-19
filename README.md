@@ -15,7 +15,7 @@
  *
  *
  * @param displacement this is a small positive integer range = 0 to 20
- * @return depending on the [displacement] provided, it will return a corresponding number
+ * @return depending on the [displacement] provided, it will return a corresponding decoded text
  */
 fun decodeString(
     displacement: Int
