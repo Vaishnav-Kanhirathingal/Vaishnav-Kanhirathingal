@@ -1,11 +1,41 @@
 ```kotlin
-/** A greetings function which takes a string value and returns either a greeting or null
- * @param message a greeting message from the user
- * @return a generated greeting or null based on the message provided
+/** this is a simple challenge, decode this and you will get a reward, The only param to change is
+ * [displacement]. do not alter the given code. Do keep in mind that displacement is not constant
+ * across the values. you will receive partial answers when a correct [displacement] is passed.
+ * Join those partial answers to solve the challenge. partially correct answers will be easily
+ * recognizable and are from the normal english dictionary. Example -
+ *
+ * --something-meaningful------------------------------------------(d)
+ * ----------------------something-meaningful----------------------(d+1)
+ * ------------------------------------------something-meaningful--(d+2)
+ *
+ * with '-' being gibberish. and brackets showing their corresponding displacement values (d)
+ * best of luck...
+ * **challenge valid till 06/2025
+ *
+ *
+ * @param displacement this is a small positive integer range = 0 to 20
+ * @return depending on the [displacement] provided, it will return a corresponding number
  */
-fun greetings(message: String): String? {
-    return if (message.contains("hi")) "hello there"
-    else null
+fun decodeString(
+    displacement: Int
+): String {
+    return listOf(
+        110, 105, 26, 91, 104, 115, 92, 105, 94, 115, 26, 108, 95, 91, 94, 99, 104, 97, 26, 110,
+        98, 99, 109, 38, 26, 93, 105, 104, 97, 108, 91, 110, 111, 102, 91, 110, 99, 105, 104, 109,
+        25, 104, 103, 25, 92, 104, 102, 105, 101, 94, 109, 98, 103, 96, 25, 109, 97, 94, 25, 92,
+        97, 90, 101, 101, 94, 103, 96, 94, 39, 25, 66, 25, 112, 90, 103, 109, 25, 109, 104, 25, 99,
+        102, 103, 111, 24, 111, 96, 89, 108, 24, 89, 100, 100, 24, 108, 96, 97, 102, 95, 107, 24,
+        113, 103, 109, 24, 108, 106, 97, 93, 92, 24, 108, 103, 24, 91, 103, 101, 104, 100, 93, 107,
+        92, 23, 107, 95, 92, 23, 90, 95, 88, 99, 99, 92, 101, 94, 92, 37, 23, 88, 93, 107, 92, 105,
+        23, 88, 99, 99, 23, 107, 95, 88, 107, 23, 92, 93, 93, 102, 105, 107, 35, 22, 95, 106, 22,
+        109, 101, 107, 98, 90, 22, 88, 91, 22, 102, 104, 91, 106, 106, 111, 22, 92, 107, 100, 100,
+        111, 22, 95, 92, 22, 63, 22, 96, 107, 105, 106, 22, 105, 87, 95, 90, 21, 23, 62, 21, 97,
+        94, 90, 89, 23, 21, 48, 30
+    ).joinToString(
+        separator = "",
+        transform = { (it + displacement).toChar().toString() }
+    )
 }
 ```
 
