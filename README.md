@@ -81,7 +81,7 @@
 
 [![gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:vaishnav.kanhira@gmail.com)
 [![whatsapp](https://user-images.githubusercontent.com/94210466/176989471-2df5e9f0-0edd-4a1a-ba0a-a169b7ec612b.svg "Whatsapp")](https://wa.me/917219648837)
-[![LinkedIn](https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/264d3829-1780-40a7-9126-7ae39c4e7615 "Linkedin")]([mailto:vaishnav.kanhira@outlook.com](https://www.linkedin.com/in/vaishnav-kanhirathingal-2b8b6b224/))
+[![LinkedIn](https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/264d3829-1780-40a7-9126-7ae39c4e7615 "Linkedin")](https://www.linkedin.com/in/vaishnav-kanhirathingal-2b8b6b224/)
 [![instagram](https://user-images.githubusercontent.com/94210466/176988556-79d612d7-6ed2-4b48-ac2e-71f1c14422b4.svg "Instagram")](https://www.instagram.com/vaishnav_k.p/)
 
 ### Stack Exchange
