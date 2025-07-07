@@ -42,32 +42,31 @@
             height=200,
             title="Android Basics in Kotlin">
 </a>
-<a href ="https://developer.android.com/courses/jetpack-compose/course">
-<img
-    src="https://developer.android.com/static/courses/jetpack-compose/images/course-logo.svg",
-    height=200,
-    title="Jetpack Compose for Android Developers">
+<a href="https://developer.android.com/courses/jetpack-compose/course">
+    <img
+            src="https://developer.android.com/static/courses/jetpack-compose/images/course-logo.svg" ,
+            height=200,
+            title="Jetpack Compose for Android Developers">
+
 </a>
 
 ## Languages and Git-Hub stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&hide_border=true&theme=transparent&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Kanhirathingal&hide_border=true&theme=transparent&include_all_commits=true"
+         height=200/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Kanhirathingal&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Kanhirathingal&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent"
+         height=200/>
 </a>
 
-## Ongoing -
-
-> Started 13th of March
-
-[![PassMark app icon](https://raw.githubusercontent.com/Vaishnav-Kanhirathingal/PassMark/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp "[PassMark] - PassMark is a password saving application focused on high end security and Material You theming. it has features as dynamic theming, biometrics, optional offline storing of passwords for additional peace of mind and a simple to understand UI")](https://github.com/Vaishnav-Kanhirathingal/PassMark)
 
 ## Projects -
 
 > Each project has its own release. You can find the apks in the release section. Hover over the project icons for moore details.
 
+[![PassMark app icon](https://raw.githubusercontent.com/Vaishnav-Kanhirathingal/PassMark/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp "[PassMark] - PassMark is a password saving application focused on high end security and Material You theming. it has features as dynamic theming, biometrics, optional offline storing of passwords for additional peace of mind and a simple to understand UI")](https://github.com/Vaishnav-Kanhirathingal/PassMark)
 [![Scheuler Icon](https://github.com/Vaishnav-Kanhirathingal/Scheduler/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Scheduler Compose] - This is a task reminder app which acheives its motive by pushing undismissable notifications. This was a practice project to improve compose skills")](https://github.com/Vaishnav-Kanhirathingal/Scheduler)
 [![Game - Stream android app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Game - Stream Mobile] - This app is responsible for sending control signals to the desktop side. It also displays gameplay streamed from the PC")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-MOBILE)
 [![Game - Stream desktop app icon](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop/blob/main/src/main/resources/app_icon_mipmap/mipmap-xxxhdpi/ic_launcher.png?raw=true "[Game - Stream Desktop] - This app is responsible for recieving control signals from the android side. It also streams gameplay streamed to the android device")](https://github.com/Vaishnav-Kanhirathingal/G-Stream-Desktop)
@@ -84,4 +83,4 @@
 
 ### Stack Exchange
 
-<a href="https://stackexchange.com/users/23358250/vaishnav-kanhirathingal?tab=accounts"><img src="https://stackexchange.com/users/flair/23358250.png?theme=clean" width="208" height="58" alt="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/23358250/vaishnav-kanhirathingal?tab=accounts"><img src="https://stackexchange.com/users/flair/23358250.png?theme=clean" width="208" height="58" alt="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp; A sites" title="profile for Vaishnav Kanhirathingal on Stack Exchange, a network of free, community-driven Q&amp; A sites"></a>
