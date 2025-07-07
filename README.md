@@ -21,25 +21,26 @@
 
 ### Experienced in
 
-<img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/2299b5bb-fa1b-4e06-864c-7673f0d7284a" width = "48" height = "48" title = "Solidity">![ethereum](https://user-images.githubusercontent.com/94210466/176891264-73080865-8a23-474b-b4c5-0d65bcf12bba.svg "Ethereum")
-![python](https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg "python")
-![html-5](https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg "HTML-5")
-![flutter](https://user-images.githubusercontent.com/94210466/176881833-c22ce8a5-b810-4bbe-9dd2-286ba83ac36e.svg "flutter")
-![dart](https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg "Dart")
-![c-programming](https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg "C/C++ programming")
+<img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/2299b5bb-fa1b-4e06-864c-7673f0d7284a" height = "48" title = "Solidity">
+<img src = "https://user-images.githubusercontent.com/94210466/176891264-73080865-8a23-474b-b4c5-0d65bcf12bba.svg" height = 48>
+<img src = "https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg" height = 48>
+<img src = "https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg" height = 48>
+<img src = "https://user-images.githubusercontent.com/94210466/176881833-c22ce8a5-b810-4bbe-9dd2-286ba83ac36e.svg" height = 48>
+<img src = "https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg" height = 48>
+<img src = "https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg" height = 48>
 
 ### Extra skills
 
-![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation, Samples on my instagram)")
-![icons8-davinci-resolve](https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg "DaVinci Resolve (used for video editing)")
+<img src = "https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg" height = 48>
+<img src = "https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg" height = 48>
 
 ## Courses completed [[Badges]](https://g.dev/Vaishnav-Kanhirathingal)
 
-<a href ="https://developer.android.com/courses/android-basics-kotlin/course">
-<img
-    src="https://developer.android.com/static/images/hero-assets/kotlin-certified-grey.svg",
-    height=200,
-    title="Android Basics in Kotlin">
+<a href="https://developer.android.com/courses/android-basics-kotlin/course">
+    <img
+            src="https://developer.android.com/static/images/hero-assets/kotlin-certified-grey.svg" ,
+            height=200,
+            title="Android Basics in Kotlin">
 </a>
 <a href ="https://developer.android.com/courses/jetpack-compose/course">
 <img
