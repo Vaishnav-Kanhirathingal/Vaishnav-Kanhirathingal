@@ -3,38 +3,42 @@
 ### Primary Skills
 
 <div>
-<img src="https://user-images.githubusercontent.com/94210466/176880688-46732008-93f7-4fd6-8177-286f566d50df.svg" height=48 title="Kotlin">
-<img src="https://user-images.githubusercontent.com/94210466/176880691-4ab9e925-6394-436f-861e-5958410a6cc2.svg" height=48 title="JAVA">
-<img src="https://user-images.githubusercontent.com/94210466/176882996-7df75494-3edd-483a-8800-5ef39ca4369b.png" height=48 title="XML">
-<img src="https://funkymuse.dev/assets/img/compose/compose_logo.png" height=48 title="Jetpack Compose">
-<img src="https://developer.android.com/static/images/training/testing/espresso.png" height=48 title="Android ESPRESSO ui testing framework">
-<img src="https://user-images.githubusercontent.com/94210466/176881692-82e3d732-64ae-4ffa-adfb-e3012433279f.svg" height=48 title="Firebase">
-<img src="https://user-images.githubusercontent.com/94210466/176891077-0c14f0da-93cb-4d77-a3d2-bb5290d887ee.svg" height=48 title="Cloud-Firestore">
-<img src="https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/69dd0d75-d170-410b-a192-e465d295ae26" height="48" title="Chat Gpt (OpenAI Api)">
-<img src="https://th.bing.com/th?id=ODLS.c0682015-73df-4e47-8c62-6f1b8f901091&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" height=48 title="Max Ads">
-<img src="https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/60daed75-38aa-4bd7-b84a-13770fa21473" height=48 title="Google ads">
-<img src="https://th.bing.com/th?id=ODLS.f46432d0-40f7-4c89-8e1e-18ec86120902&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height=48 title="Sentry">
-<img src="https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/a78caaf0-582f-4b6b-b721-1486dd140316" height="48" title="Biometrics">
-<img src="https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png" height=48 title="SQL">
-<img src="https://github.com/user-attachments/assets/f9037693-234d-4589-a10c-dfa20da7b9bc" height=48 title="Google Play Console">
-<img src="https://github.com/user-attachments/assets/77f07425-e186-40b8-af71-a40d6fb62c59" height=48 title="Supabase">
-<img src="https://github.com/user-attachments/assets/6ef38261-b84b-4aee-956f-723a3b2455de" height=48 title="WearOS">
+    <img src="https://user-images.githubusercontent.com/94210466/176880688-46732008-93f7-4fd6-8177-286f566d50df.svg" height=48 title="Kotlin">
+    <img src="https://user-images.githubusercontent.com/94210466/176880691-4ab9e925-6394-436f-861e-5958410a6cc2.svg" height=48 title="JAVA">
+    <img src="https://user-images.githubusercontent.com/94210466/176882996-7df75494-3edd-483a-8800-5ef39ca4369b.png" height=48 title="XML">
+    <img src="https://funkymuse.dev/assets/img/compose/compose_logo.png" height=48 title="Jetpack Compose">
+    <img src="https://developer.android.com/static/images/training/testing/espresso.png" height=48 title="Android ESPRESSO ui testing framework">
+    <img src="https://user-images.githubusercontent.com/94210466/176881692-82e3d732-64ae-4ffa-adfb-e3012433279f.svg" height=48 title="Firebase">
+    <img src="https://user-images.githubusercontent.com/94210466/176891077-0c14f0da-93cb-4d77-a3d2-bb5290d887ee.svg" height=48 title="Cloud-Firestore">
+    <img src="https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/69dd0d75-d170-410b-a192-e465d295ae26" height="48" title="Chat Gpt (OpenAI Api)">
+    <img src="https://th.bing.com/th?id=ODLS.c0682015-73df-4e47-8c62-6f1b8f901091&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" height=48 title="Max Ads">
+    <img src="https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/60daed75-38aa-4bd7-b84a-13770fa21473" height=48 title="Google ads">
+    <img src="https://th.bing.com/th?id=ODLS.f46432d0-40f7-4c89-8e1e-18ec86120902&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height=48 title="Sentry">
+    <img src="https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/a78caaf0-582f-4b6b-b721-1486dd140316" height="48" title="Biometrics">
+    <img src="https://user-images.githubusercontent.com/94210466/176883215-43740ce7-2846-4e81-b139-c2f20d3b4e19.png" height=48 title="SQL">
+    <img src="https://github.com/user-attachments/assets/f9037693-234d-4589-a10c-dfa20da7b9bc" height=48 title="Google Play Console">
+    <img src="https://github.com/user-attachments/assets/77f07425-e186-40b8-af71-a40d6fb62c59" height=48 title="Supabase">
+    <img src="https://github.com/user-attachments/assets/6ef38261-b84b-4aee-956f-723a3b2455de" height=48 title="WearOS">
 </div>
 
 ### Experienced in
 
-<img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/2299b5bb-fa1b-4e06-864c-7673f0d7284a" height = "48" title = "Solidity">
-<img src = "https://user-images.githubusercontent.com/94210466/176891264-73080865-8a23-474b-b4c5-0d65bcf12bba.svg" height = 48>
-<img src = "https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg" height = 48>
-<img src = "https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg" height = 48>
-<img src = "https://user-images.githubusercontent.com/94210466/176881833-c22ce8a5-b810-4bbe-9dd2-286ba83ac36e.svg" height = 48>
-<img src = "https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg" height = 48>
-<img src = "https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg" height = 48>
+<div>
+    <img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/2299b5bb-fa1b-4e06-864c-7673f0d7284a" height = "48" title = "Solidity">
+    <img src = "https://user-images.githubusercontent.com/94210466/176891264-73080865-8a23-474b-b4c5-0d65bcf12bba.svg" height = 48>
+    <img src = "https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg" height = 48>
+    <img src = "https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg" height = 48>
+    <img src = "https://user-images.githubusercontent.com/94210466/176881833-c22ce8a5-b810-4bbe-9dd2-286ba83ac36e.svg" height = 48>
+    <img src = "https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg" height = 48>
+    <img src = "https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg" height = 48>
+</div>
 
 ### Extra skills
 
-<img src = "https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg" height = 48>
-<img src = "https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg" height = 48>
+<div>
+    <img src = "https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg" height = 48>
+    <img src = "https://user-images.githubusercontent.com/94210466/177002004-03712bfa-601f-40b1-81d5-73127a35387d.svg" height = 48>
+</div>
 
 ## Courses completed [[Badges]](https://g.dev/Vaishnav-Kanhirathingal)
 
