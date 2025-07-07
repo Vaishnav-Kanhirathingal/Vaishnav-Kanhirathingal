@@ -28,7 +28,6 @@
 ![dart](https://user-images.githubusercontent.com/94210466/176890920-b20875fc-fc33-487c-becf-f389f8605a94.svg "Dart")
 ![c-programming](https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg "C/C++ programming")
 
-
 ### Extra skills
 
 ![icons8-blender-3d](https://user-images.githubusercontent.com/94210466/177001999-52f6e94a-fae4-4060-b9fd-cf7987ec4580.svg "Blender (used for 3d modelling and animation, Samples on my instagram)")
@@ -37,13 +36,13 @@
 ## Courses completed [[Badges]](https://g.dev/Vaishnav-Kanhirathingal)
 
 <a href ="https://developer.android.com/courses/android-basics-kotlin/course">
-<img 
+<img
     src="https://developer.android.com/static/images/hero-assets/kotlin-certified-grey.svg",
     height=200,
     title="Android Basics in Kotlin">
 </a>
 <a href ="https://developer.android.com/courses/jetpack-compose/course">
-<img 
+<img
     src="https://developer.android.com/static/courses/jetpack-compose/images/course-logo.svg",
     height=200,
     title="Jetpack Compose for Android Developers">
@@ -58,13 +57,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Kanhirathingal&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
 </a>
 
-
 ## Ongoing -
 
 > Started 13th of March
 
 [![PassMark app icon](https://raw.githubusercontent.com/Vaishnav-Kanhirathingal/PassMark/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp "[PassMark] - PassMark is a password saving application focused on high end security and Material You theming. it has features as dynamic theming, biometrics, optional offline storing of passwords for additional peace of mind and a simple to understand UI")](https://github.com/Vaishnav-Kanhirathingal/PassMark)
-
 
 ## Projects -
 
